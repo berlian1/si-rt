@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/kegiatan"
+            android:icon="@drawable/ic_kejadian_24dp"
+            android:title="Kegiatan dan Kejadian" />
+        <item
+            android:id="@+id/prodamas"
+            android:icon="@drawable/ic_ukm_24dp"
+            android:title="UMKM dan PRODAMAS" />
+        <item
+            android:id="@+id/aduan"
+            android:icon="@drawable/ic_aduan_24dp"
+            android:title="Aduan Warga" />
+        <item
+            android:id="@+id/surat"
+            android:icon="@drawable/ic_surat_24dp"
+            android:title="Surat Pengantar Warga" />
+        <item
+            android:id="@+id/akun"
+            android:icon="@drawable/ic_akun_24dp"
+            android:title="Manajemen Akun" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Keluar" />
+    </group>
+
+
+</menu>
