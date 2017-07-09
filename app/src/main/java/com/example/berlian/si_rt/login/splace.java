@@ -1,4 +1,4 @@
-package com.example.berlian.si_rt;
+package com.example.berlian.si_rt.login;
 
 import android.content.Intent;
 import android.os.Handler;
@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Window;
 
+import com.example.berlian.si_rt.R;
 import com.example.berlian.si_rt.login.SessionManager;
 import com.example.berlian.si_rt.login.login;
 
